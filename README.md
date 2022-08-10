@@ -8,7 +8,7 @@ Experienced Web Developer with a demonstrated history of working in the informat
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/zuhaib-akhtar-hunzai)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuhaib-akhtar-hunzai)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zuhaib.rustam@gmail.com)
 
 ## 🛠 Skills
