@@ -12,6 +12,6 @@ Experienced Web Developer with a demonstrated history of working in the informat
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuhaib.rustam@gmail.com)
 
 ## 🛠 Skills
-Javascript, Nodejs , ExpressJS , Typescript , NestJs , ReactJs  
+Javascript, NodeJs , ExpressJS , Typescript , NestJs , ReactJs  
 
 
