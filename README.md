@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-Experienced Web Developer with a demonstrated history of working in the information technology and services industry. Skilled in JavaScript Nodejs / typescript express.js nestjs , Bootstrap, material-Ui and databases like SQL NoSQL with Strong engineering professional graduated from preston university islamabad.
+Experienced Web Developer with a demonstrated history of working in the information technology and services industry. Skilled in JavaScript Nodejs / typescript express.js nestjs , Bootstrap, material-Ui and databases like SQL NoSQL.
 
 
 ## 🔗 Links
